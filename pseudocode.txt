@@ -1,0 +1,18 @@
+operations on matrices such as multiplication of 2 matrices, multiplication of a matrix by some constant, and addition of matrices.
+
+Let A = |a b|  and B = |e f| be 2 by 2 matrix
+        |c d|          |g h|
+
+multiplication of a matrix by a constant factor
+A * k = |k*a k*b|
+        |k*c k*d|
+
+addition of matrices
+A + B = |a+e b+f|
+        |c+g d+h|
+
+multiplication of matrices
+A * B = |a*e + b*g  a*f + b*h|
+        |c*e + d*g  c*f + d*h|
+
+This programs I shall make use a multi-dimensional list/array - 2D
